@@ -1,0 +1,90 @@
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\appsettings.Development.json
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\appsettings.json
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\snappy32.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\snappy64.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\libzstd.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\AppMongoDB.Apresentação.exe
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\AppMongoDB.Apresentação.deps.json
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\AppMongoDB.Apresentação.runtimeconfig.json
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\AppMongoDB.Apresentação.runtimeconfig.dev.json
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\AppMongoDB.Apresentação.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\ref\AppMongoDB.Apresentação.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\AppMongoDB.Apresentação.pdb
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\DnsClient.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\MongoDB.Driver.Legacy.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\SharpCompress.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.csprojAssemblyReference.cache
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.GeneratedMSBuildEditorConfig.editorconfig
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.AssemblyInfoInputs.cache
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.AssemblyInfo.cs
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.csproj.CoreCompileInputs.cache
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.MvcApplicationPartsAssemblyInfo.cs
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.MvcApplicationPartsAssemblyInfo.cache
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\obj\Debug\net5.0\staticwebassets\AppMongoDB.Apresentação.StaticWebAssets.Manifest.cache
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\obj\Debug\net5.0\staticwebassets\AppMongoDB.Apresentação.StaticWebAssets.xml
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\obj\Debug\net5.0\scopedcss\bundle\AppMongoDB.Apresentação.styles.css
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.RazorTargetAssemblyInfo.cache
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.csproj.CopyComplete
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\obj\Debug\net5.0\ref\AppMongoDB.Apresentação.dll
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.pdb
+C:\ebookRevisado\meuTeste (2)\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.genruntimeconfig.cache
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\appsettings.Development.json
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\appsettings.json
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\snappy32.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\snappy64.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\libzstd.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\AppMongoDB.Apresentação.exe
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\AppMongoDB.Apresentação.deps.json
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\AppMongoDB.Apresentação.runtimeconfig.json
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\AppMongoDB.Apresentação.runtimeconfig.dev.json
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\AppMongoDB.Apresentação.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\ref\AppMongoDB.Apresentação.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\AppMongoDB.Apresentação.pdb
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\DnsClient.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\MongoDB.Driver.Legacy.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\SharpCompress.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\ebookRevisado\meuTeste\meuTeste\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\ebookRevisado\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.csprojAssemblyReference.cache
+C:\ebookRevisado\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.GeneratedMSBuildEditorConfig.editorconfig
+C:\ebookRevisado\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.AssemblyInfoInputs.cache
+C:\ebookRevisado\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.AssemblyInfo.cs
+C:\ebookRevisado\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.csproj.CoreCompileInputs.cache
+C:\ebookRevisado\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.MvcApplicationPartsAssemblyInfo.cs
+C:\ebookRevisado\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.MvcApplicationPartsAssemblyInfo.cache
+C:\ebookRevisado\meuTeste\meuTeste\obj\Debug\net5.0\staticwebassets\AppMongoDB.Apresentação.StaticWebAssets.Manifest.cache
+C:\ebookRevisado\meuTeste\meuTeste\obj\Debug\net5.0\staticwebassets\AppMongoDB.Apresentação.StaticWebAssets.xml
+C:\ebookRevisado\meuTeste\meuTeste\obj\Debug\net5.0\scopedcss\bundle\AppMongoDB.Apresentação.styles.css
+C:\ebookRevisado\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.RazorTargetAssemblyInfo.cache
+C:\ebookRevisado\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.csproj.CopyComplete
+C:\ebookRevisado\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.dll
+C:\ebookRevisado\meuTeste\meuTeste\obj\Debug\net5.0\ref\AppMongoDB.Apresentação.dll
+C:\ebookRevisado\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.pdb
+C:\ebookRevisado\meuTeste\meuTeste\obj\Debug\net5.0\AppMongoDB.Apresentação.genruntimeconfig.cache
